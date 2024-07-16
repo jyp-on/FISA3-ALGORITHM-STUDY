@@ -1,4 +1,4 @@
-### 우리 FISA 3기 Algorithm Study 🌏
+### 🌏 우리 FISA 3기 Algorithm Study 🌏
 > 코딩테스트 스터디
 * 기간: 2024.07. ~
 * 요일: 월, 수
@@ -6,7 +6,7 @@
 * 언어: Java
 <br/>
 
-### Member
+### 📌 Member
 > Group 1
 <table>
   <tr>
@@ -106,7 +106,13 @@
   
 </table><br/>
 
-### Study Rule
+### 📌 Study Rule
 * 각 주마다 알고리즘 선정 및 직전 주말 각자 알고리즘 공부
 * **[필참!]** 월요일과 수요일은 대면으로 함께 해당 알고리즘과 관련된 코테 풀이 및 리뷰
 * 화요일과 목요일은 자유 참여로 그룹별 코테 풀이 및 리뷰
+<br/>
+
+### 📌 Git Rule
+* 플랫폼: 문제이름 **ex) 백준 : 일곱난쟁이**
+* 한문제당 1커밋
+* **[!중요]** 본인의 local main위치에서 git pull origin main 으로 병합 후 add 및 commit 후 origin main으로 push

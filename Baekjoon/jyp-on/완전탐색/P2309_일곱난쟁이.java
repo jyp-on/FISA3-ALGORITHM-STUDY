@@ -1,5 +1,6 @@
+package 완전탐색;
+
 import java.util.*;
-import java.io.*;
 
 public class P2309_일곱난쟁이 {
     public static void main(String[] args) {

@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-class BaekJoon11728 {
+class Main {
     static int[] array1;
     static int[] array2;
     public static void main(String[]args)throws IOException {
@@ -46,5 +46,4 @@ class BaekJoon11728 {
         System.out.println(sb);
 
     }
-
 }

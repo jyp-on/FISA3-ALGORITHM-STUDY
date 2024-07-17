@@ -27,20 +27,20 @@ class BaekJoon11728 {
         int p=0,q=0;
         while(p<n && q<m){
             if( array1[p]<=array2[q]){
-                sb.append(array1[p++]+" ");
+                sb.append(array1[p++]).append(" ");
             }
             else{
-                sb.append(array2[q++]+ " ");
+                sb.append(array2[q++]).append(" ");
             }
         }
         if(p==n){
             for(int i=q;i<m;i++){
-                sb.append(array2[i]+" ");
+                sb.append(array2[i]).append(" ");
             }
         }
         else {
             for(int i=p;i<n;i++){
-                sb.append(array1[i]+" ");
+                sb.append(array1[i]).append(" ");
             }
         }
         System.out.println(sb);

@@ -19,7 +19,7 @@ public class Main {
     Arrays.sort(burger);
     Arrays.sort(beverage);
 
-    int cheapestCombo = burger[0] + beverage[0] - 50;
-    System.out.println(cheapestCombo);
+    int cheap = burger[0] + beverage[0] - 50;
+    System.out.println(cheap);
   }
 }

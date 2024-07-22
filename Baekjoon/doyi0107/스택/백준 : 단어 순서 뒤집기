@@ -1,0 +1,41 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Stack;
+
+public class Main {
+  public static void main(String[] args) throws IOException {
+    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    int n = Integer.parseInt(br.readLine());
+    StringBuilder answer = new StringBuilder();
+
+    for(int i=0; i<n; i++){
+      //stack생성하고 문자열로 불러온 거 나누기
+      Stack<String> stringStack = new Stack<>();
+      String line = br.readLine();
+      String[] words = line.split(" ");
+
+      //나눈 문자 배열 stack에 집어넣기
+      for(String word : words){
+        stringStack.push(word);
+      }
+
+      //답안 초안
+      answer.append("Case #").append(i+1).append(": ");
+
+     //stack에 집어 넣은 값 반대로 빼서 붙이기
+      while(!stringStack.isEmpty()){
+        answer.append(stringStack.pop());
+        if(!stringStack.isEmpty()){
+          answer.append(" ");
+        }
+      }
+
+      // 케이스 끝나고 줄바꾸기
+      answer.append("\n");
+    }
+
+    System.out.println(answer.toString());
+
+  }
+}

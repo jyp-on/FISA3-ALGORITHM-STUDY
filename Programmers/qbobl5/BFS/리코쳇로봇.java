@@ -8,25 +8,6 @@ public class Solution {
 	static int[] startNode; // 시작점
 	static int[] endNode; // 끝점
 	
-	/* board 에 맞게 game 을 생성 */
-	public static void madeGame(String[] board) {
-		for (int i=0; i <rowLength; i++) {
-			String[] sTmp = board[i].split("");
-			for (int j=0; j <sTmp.length; j++) {
-				if (sTmp[j].equals("D")) game[i][j] = 1;
-				else {
-					if (sTmp[j].equals("R")) {
-						startNode[0] = i;
-						startNode[1] = j;
-					} else if (sTmp[j].equals("G")) {
-						endNode[0] = i;
-						endNode[1] = j;
-					}
-				}
-			}
-		}
-	}
-	
 	/* bfs 알고리즘 */
 	public static int bfs() {
 		Queue<int[]> q = new LinkedList<>();
@@ -40,9 +21,8 @@ public class Solution {
             int[] current = q.poll();
             int r = current[0];
             int c = current[1];
-            int depth = current[2];
 
-            if(r == endNode[0] && c == endNode[1]) return depth;
+            if(r == endNode[0] && c == endNode[1]) return current[2];
 
             for(int[] dir : directions) {
                 int newRow = r;
@@ -57,7 +37,7 @@ public class Solution {
                 newCol -= dir[1];
 
                 if(!check[newRow][newCol]) {
-                    q.add(new int[]{newRow, newCol, depth + 1});
+                    q.add(new int[]{newRow, newCol, current[2] + 1});
                     check[newRow][newCol] = true;
                 }
             }
@@ -69,12 +49,25 @@ public class Solution {
 	public int solution(String[] board) {
 		rowLength = board.length;
 		colLength = board[0].length();
-		
-		game = new int[rowLength][colLength];
+        
 		startNode = new int[2];
 		endNode = new int[2];
+        game = new int[rowLength][colLength];
 		
-		madeGame(board);
+		for (int i=0; i <rowLength; i++) {
+			for (int j=0; j <colLength; j++) {
+				if (board[i].charAt(j) == 'D') game[i][j] = 1;
+				else {
+					if (board[i].charAt(j) == 'R') {
+						startNode[0] = i;
+						startNode[1] = j;
+					} else if (board[i].charAt(j) == 'G') {
+						endNode[0] = i;
+						endNode[1] = j;
+					}
+				}
+			}
+		}
 		
 		return bfs();
 	}

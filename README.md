@@ -115,4 +115,5 @@
 ### 📌 Git Rule
 * 한문제당 1커밋
 * 커밋 메시지의 경우 [플랫폼: 문제이름] 으로 통일 `(ex) 백준: 일곱난쟁이`
+* 파일명은 한글, '_', '-', 영어만 작성 (이모티콘 X)
 * **[!중요]** 본인의 local main 에서 git pull origin main 으로 병합 후 add 및 commit 한 다음 origin main으로 push

@@ -71,6 +71,11 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/HoChoRoo">
+        <img src="https://github.com/HoChoRoo.png" alt="김호철" width="150" height="150"/>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/bangsk2">
         <img src="https://github.com/bangsk2.png" alt="방성경" width="150" height="150"/>
       </a>
@@ -90,6 +95,11 @@
     <td align="center">
       <a href="https://github.com/Jieun-KWAK">
         <b>곽지은</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HoChoRoo">
+        <b>김호철</b>
       </a>
     </td>
     <td align="center">

@@ -11,8 +11,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Soyeon_Kong">
-        <img src="https://github.com/Soyeon_Kong.png" alt="공소연" width="150" height="150"/>
+      <a href="https://github.com/Kong-E">
+        <img src="https://github.com/Kong-E.png" alt="공소연" width="150" height="150"/>
       </a>
     </td>
     <td align="center">
@@ -33,7 +33,7 @@
   </tr>
    <tr>
     <td align="center">
-      <a href="https://github.com/SoyeonKong">
+      <a href="https://github.com/Kong-E">
         <b>공소연</b>
       </a>
     </td>

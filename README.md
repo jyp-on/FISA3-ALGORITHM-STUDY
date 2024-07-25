@@ -11,13 +11,13 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/qbobl5">
-        <img src="https://github.com/qbobl5.png" alt="김혜빈" width="150" height="150"/>
+      <a href="https://github.com/Soyeon Kong">
+        <img src="https://github.com/Soyeon Kong.png" alt="공소연" width="150" height="150"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/HoChoRoo">
-        <img src="https://github.com/HoChoRoo.png" alt="김호철" width="150" height="150"/>
+      <a href="https://github.com/qbobl5">
+        <img src="https://github.com/qbobl5.png" alt="김혜빈" width="150" height="150"/>
       </a>
     </td>
     <td align="center">
@@ -33,13 +33,13 @@
   </tr>
    <tr>
     <td align="center">
-      <a href="https://github.com/qbobl5">
-        <b>김혜빈</b>
+      <a href="https://github.com/Soyeon Kong">
+        <b>공소연</b>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/HoChoRoo">
-        <b>김호철</b>
+      <a href="https://github.com/qbobl5">
+        <b>김혜빈</b>
       </a>
     </td>
     <td align="center">

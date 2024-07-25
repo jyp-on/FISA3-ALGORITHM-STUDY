@@ -83,13 +83,13 @@
   </tr>
    <tr>
     <td align="center">
-      <a href="https://github.com/riverkite0708">
-        <b>강재연</b>
+      <a href="https://github.com/ksp0814">
+        <b>강세필</b>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/ksp0814">
-        <b>강세필</b>
+      <a href="https://github.com/riverkite0708">
+        <b>강재연</b>
       </a>
     </td>
     <td align="center">

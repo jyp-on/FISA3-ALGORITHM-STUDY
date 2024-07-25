@@ -85,6 +85,11 @@
         <img src="https://github.com/doyi0107.png" alt="이도이" width="150" height="150"/>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/dlaudfuf33">
+        <img src="https://github.com/dlaudfuf33.png" alt="이명렬" width="150" height="150"/>
+      </a>
+    </td>
   </tr>
    <tr>
     <td align="center">
@@ -110,6 +115,11 @@
      <td align="center">
       <a href="https://github.com/doyi0107">
         <b>이도이</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dlaudfuf33">
+        <b>이명렬</b>
       </a>
     </td>
   </tr>

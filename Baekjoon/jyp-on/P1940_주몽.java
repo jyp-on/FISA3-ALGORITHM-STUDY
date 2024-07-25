@@ -1,5 +1,3 @@
-package 투포인터;
-
 import java.io.*;
 import java.util.*;
 public class P1940_주몽 {

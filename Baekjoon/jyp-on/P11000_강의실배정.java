@@ -1,5 +1,3 @@
-package 그리디;
-
 import java.util.*;
 import java.io.*;
 

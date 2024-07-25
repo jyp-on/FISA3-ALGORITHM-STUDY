@@ -1,6 +1,4 @@
-package 백트래킹;
 import java.util.*;
-import java.io.*;
 
 public class P10974_모든순열 {
     static int[] arr, ans;

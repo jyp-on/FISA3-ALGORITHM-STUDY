@@ -1,5 +1,3 @@
-package 완전탐색;
-
 import java.io.*;
 import java.util.Arrays;
 import java.util.Scanner;

@@ -80,26 +80,6 @@
         <img src="https://github.com/Jieun-KWAK.png" alt="곽지은" width="150" height="150"/>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/HoChoRoo">
-        <img src="https://github.com/HoChoRoo.png" alt="김호철" width="150" height="150"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/bangsk2">
-        <img src="https://github.com/bangsk2.png" alt="방성경" width="150" height="150"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/doyi0107">
-        <img src="https://github.com/doyi0107.png" alt="이도이" width="150" height="150"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/dlaudfuf33">
-        <img src="https://github.com/dlaudfuf33.png" alt="이명렬" width="150" height="150"/>
-      </a>
-    </td>
   </tr>
    <tr>
     <td align="center">
@@ -122,6 +102,33 @@
         <b>곽지은</b>
       </a>
     </td>
+  </tr>
+  
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/HoChoRoo">
+        <img src="https://github.com/HoChoRoo.png" alt="김호철" width="150" height="150"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bangsk2">
+        <img src="https://github.com/bangsk2.png" alt="방성경" width="150" height="150"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/doyi0107">
+        <img src="https://github.com/doyi0107.png" alt="이도이" width="150" height="150"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dlaudfuf33">
+        <img src="https://github.com/dlaudfuf33.png" alt="이명렬" width="150" height="150"/>
+      </a>
+    </td>
+  </tr>
+   <tr>
     <td align="center">
       <a href="https://github.com/HoChoRoo">
         <b>김호철</b>

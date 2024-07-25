@@ -61,6 +61,11 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/ksp0814">
+        <img src="https://github.com/ksp0814.png" alt="강세필" width="150" height="150"/>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/yaejinkong">
         <img src="https://github.com/yaejinkong.png" alt="공예진" width="150" height="150"/>
       </a>
@@ -92,6 +97,11 @@
     </td>
   </tr>
    <tr>
+    <td align="center">
+      <a href="https://github.com/ksp0814">
+        <b>강세필</b>
+      </a>
+    </td>
     <td align="center">
       <a href="https://github.com/yaejinkong">
         <b>공예진</b>

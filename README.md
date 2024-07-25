@@ -66,6 +66,11 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/riverkite0708">
+        <img src="https://github.com/riverkite0708.png" alt="강재연" width="150" height="150"/>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/yaejinkong">
         <img src="https://github.com/yaejinkong.png" alt="공예진" width="150" height="150"/>
       </a>
@@ -97,6 +102,11 @@
     </td>
   </tr>
    <tr>
+    <td align="center">
+      <a href="https://github.com/riverkite0708">
+        <b>강재연</b>
+      </a>
+    </td>
     <td align="center">
       <a href="https://github.com/ksp0814">
         <b>강세필</b>

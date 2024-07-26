@@ -1,3 +1,5 @@
+package week2;
+
 import java.util.*;
 
 public class P10974_모든순열 {

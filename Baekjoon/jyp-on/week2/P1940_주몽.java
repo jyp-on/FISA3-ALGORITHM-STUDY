@@ -1,3 +1,5 @@
+package week2;
+
 import java.io.*;
 import java.util.*;
 public class P1940_주몽 {

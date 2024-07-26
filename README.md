@@ -11,13 +11,13 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/qbobl5">
-        <img src="https://github.com/qbobl5.png" alt="김혜빈" width="150" height="150"/>
+      <a href="https://github.com/Kong-E">
+        <img src="https://github.com/Kong-E.png" alt="공소연" width="150" height="150"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/HoChoRoo">
-        <img src="https://github.com/HoChoRoo.png" alt="김호철" width="150" height="150"/>
+      <a href="https://github.com/qbobl5">
+        <img src="https://github.com/qbobl5.png" alt="김혜빈" width="150" height="150"/>
       </a>
     </td>
     <td align="center">
@@ -33,13 +33,13 @@
   </tr>
    <tr>
     <td align="center">
-      <a href="https://github.com/qbobl5">
-        <b>김혜빈</b>
+      <a href="https://github.com/Kong-E">
+        <b>공소연</b>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/HoChoRoo">
-        <b>김호철</b>
+      <a href="https://github.com/qbobl5">
+        <b>김혜빈</b>
       </a>
     </td>
     <td align="center">
@@ -61,6 +61,16 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/ksp0814">
+        <img src="https://github.com/ksp0814.png" alt="강세필" width="150" height="150"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/riverkite0708">
+        <img src="https://github.com/riverkite0708.png" alt="강재연" width="150" height="150"/>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/yaejinkong">
         <img src="https://github.com/yaejinkong.png" alt="공예진" width="150" height="150"/>
       </a>
@@ -68,6 +78,38 @@
     <td align="center">
       <a href="https://github.com/Jieun-KWAK">
         <img src="https://github.com/Jieun-KWAK.png" alt="곽지은" width="150" height="150"/>
+      </a>
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <a href="https://github.com/ksp0814">
+        <b>강세필</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/riverkite0708">
+        <b>강재연</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yaejinkong">
+        <b>공예진</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jieun-KWAK">
+        <b>곽지은</b>
+      </a>
+    </td>
+  </tr>
+  
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/HoChoRoo">
+        <img src="https://github.com/HoChoRoo.png" alt="김호철" width="150" height="150"/>
       </a>
     </td>
     <td align="center">
@@ -80,16 +122,16 @@
         <img src="https://github.com/doyi0107.png" alt="이도이" width="150" height="150"/>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/dlaudfuf33">
+        <img src="https://github.com/dlaudfuf33.png" alt="이명렬" width="150" height="150"/>
+      </a>
+    </td>
   </tr>
    <tr>
     <td align="center">
-      <a href="https://github.com/yaejinkong">
-        <b>공예진</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Jieun-KWAK">
-        <b>곽지은</b>
+      <a href="https://github.com/HoChoRoo">
+        <b>김호철</b>
       </a>
     </td>
     <td align="center">
@@ -100,6 +142,11 @@
      <td align="center">
       <a href="https://github.com/doyi0107">
         <b>이도이</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dlaudfuf33">
+        <b>이명렬</b>
       </a>
     </td>
   </tr>

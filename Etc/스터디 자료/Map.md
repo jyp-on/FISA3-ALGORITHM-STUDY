@@ -11,7 +11,7 @@
 * 키의 중복 X (값의 중복은 O)
 * 비정렬
 
-### 📌 Code
+### 📌 Code Example
 > HashMap Test
 ```java
 import java.util.HashMap;

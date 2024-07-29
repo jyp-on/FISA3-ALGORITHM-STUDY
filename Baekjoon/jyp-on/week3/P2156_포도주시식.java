@@ -1,5 +1,6 @@
+package week3;
+
 import java.util.*;
-import java.io.*;
 
 public class P2156_포도주시식 {
     public static void main(String[] args) {

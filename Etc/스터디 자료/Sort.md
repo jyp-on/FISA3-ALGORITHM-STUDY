@@ -140,7 +140,7 @@ public class Main {
         // 내림차순 [9, 5, 2, 1] 두번째 인자로 Comparator를 받음
         Collections.sort(list, new Comparator<Integer>() {
 
-            // compare 메소드의 반환값이 음수이면 swap 하는 방식
+            // compare 메소드의 반환값이 양수면 swap 하는 방식
             @Override
             public int compare(Integer o1, Integer o2) {
 	            /*

@@ -4,6 +4,14 @@
 
 ![다운로드 (1)](https://github.com/user-attachments/assets/d172780e-8614-453d-bb3e-926a637d3fb6)
 
+
+
+
+탐색 순서(재귀) : 1 -> 2 -> 6 -> 8 -> 3 -> 5 -> 4 -> 7
+
+
+탐색 순서(Stack자료구조) : 1 -> 8 -> 3 -> 5 -> 7 -> 4 -> 2 -> 6
+
 ```
 public class Study_DFS_Recursion {
 

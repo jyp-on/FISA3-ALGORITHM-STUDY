@@ -1,4 +1,4 @@
-![img](https://github.com/user-attachments/assets/62d6c9b5-c228-4b43-88ef-c432b8670e89)# DFS
+# DFS
 
 **한 방향으로 갈 수 있을 때까지 최대한 깊게 탐색한 후 더 이상 갈 수 없게 되면, 다시 돌아와 다음 경로를 탐색하는 방식**
 

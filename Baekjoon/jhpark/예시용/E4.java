@@ -2,6 +2,7 @@ package 예시용;
 
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 class E4 {
@@ -33,6 +34,9 @@ class E4 {
                 System.out.print(arr[i][j]+" ");
             }
             System.out.println();
+        }
+        for (int i=0;i<arr.length;i++){
+            System.out.println(Arrays.toString(arr[i]));
         }
 
 //        for (int i=0;i<6;i++){

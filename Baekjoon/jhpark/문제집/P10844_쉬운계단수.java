@@ -1,3 +1,5 @@
+package 문제집;
+
 import java.util.Scanner;
 
 class P10844_쉬운계단수 {

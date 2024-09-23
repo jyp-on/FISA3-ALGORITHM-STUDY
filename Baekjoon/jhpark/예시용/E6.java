@@ -20,8 +20,8 @@ class E6 {
         int find=6;
         Stack<Integer> stack= new Stack<>();
         stack.add(0);
-        while (!stack.isEmpty()){
-            int in = stack.pop();
+        while (!stack.isEmpty()){// 3 6
+            int in = stack.pop(); // 5
             System.out.print(in+" ");
             for (int i = 6; i >= 0; i--) {
                 if(arr[in][i]==1){
@@ -31,3 +31,11 @@ class E6 {
         }
     }
 }
+
+//        [0, 1, 1, 1, 0, 0, 0]
+//        [0, 0, 0, 0, 1, 0, 0]
+//        [0, 0, 0, 0, 0, 1, 1]
+//        [0, 0, 0, 0, 0, 0, 0]
+//        [0, 0, 0, 0, 0, 0, 0]
+//        [0, 0, 0, 0, 0, 0, 0]
+//        [0, 0, 0, 0, 0, 0, 0]

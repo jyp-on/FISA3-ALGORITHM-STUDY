@@ -1,6 +1,6 @@
-import java.io.BufferedReader;
+package 문제집;
+
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.Scanner;
 
 

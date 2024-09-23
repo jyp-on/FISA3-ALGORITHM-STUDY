@@ -31,6 +31,7 @@ class E3 {
             }
             System.out.println();
         }
+        System.out.println(lists);
         int first=0;
         System.out.println("첫번째: "+ first);
         int second=lists.get(first).get(1);

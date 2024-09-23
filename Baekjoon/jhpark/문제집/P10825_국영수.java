@@ -1,7 +1,8 @@
+package 문제집;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.lang.reflect.Array;
 import java.util.*;
 
 class P10825_국영수 {

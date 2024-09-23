@@ -19,7 +19,6 @@ class E8 {
         arr= new int[a][a];
         StringTokenizer st= new StringTokenizer(br.readLine());
         for (int i=0;i<b;i++){
-
             arr[Integer.parseInt(st.nextToken())][Integer.parseInt(st.nextToken())]=1;
         }
 

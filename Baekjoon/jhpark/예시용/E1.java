@@ -22,13 +22,14 @@ class E1 {
         */
         node0.setLeft(node1);
         node0.setRight(node2);
+
         node1.setLeft(node3);
         node1.setRight(node4);
+
         node2.setLeft(node5);
         node2.setRight(node6);
 
         for (Tree.Node node : tree.getTreeNode()){
-
             System.out.print(node.data + "의 자식 노드는 ");
             if (node.getLeft() !=null)
                 System.out.print(" 왼쪽 "+node.getLeft().data);

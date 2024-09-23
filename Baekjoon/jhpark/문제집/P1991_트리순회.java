@@ -1,7 +1,8 @@
+package 문제집;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
 class P1991_트리순회 {

@@ -1,3 +1,5 @@
+package 문제집;
+
 import java.util.Scanner;
 
 class P2018_수들의합5 {

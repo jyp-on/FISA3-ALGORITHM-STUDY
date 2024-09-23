@@ -1,8 +1,8 @@
+package 예시용;
 
-import java.util.*;
 import java.io.*;
 
-class Ex1 {
+class Ex100 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

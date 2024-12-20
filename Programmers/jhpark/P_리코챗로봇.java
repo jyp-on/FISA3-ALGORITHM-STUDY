@@ -2,7 +2,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-class P리코챗로봇 {
+class P_리코챗로봇 {
     static String[] board= {"...D..R", ".D.G...", "....D.D", "D....D.", "..D...."};
     static int[] x= {1,-1,0,0};
     static int[] y= {0,0,1,-1};
